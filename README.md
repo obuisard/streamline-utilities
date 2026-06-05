@@ -4,7 +4,7 @@
 Lightweight utilities for a smoother Joomla experience.
 
 ## 📣 About This Collection
-Streamline Utilities is the new home for several Joomla extensions originally created and maintained by web‑eau.net.
+Streamline Utilities is the new home for several Joomla extensions originally created and maintained by [web‑eau.net](https://web-eau.net/).
 These tools have been adopted to ensure their long‑term stability, continued development, and compatibility with modern Joomla versions.
 
 This collection preserves the spirit of the original work while introducing clearer maintenance, improved code quality, and a sustainable roadmap.
