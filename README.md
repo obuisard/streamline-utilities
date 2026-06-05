@@ -1,7 +1,4 @@
-<img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla versions" />
-<img src="https://img.shields.io/badge/Maintained-yes-brightgreen" alt="maintained" />
-<img src="https://img.shields.io/github/v/release/obuisard/streamline-utilities" alt="release" />
-<img src="https://img.shields.io/github/license/obuisard/streamline-utilities"  alt="license"/>
+<img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla versions" /> <img src="https://img.shields.io/badge/Maintained-yes-brightgreen" alt="maintained" /> <img src="https://img.shields.io/github/v/release/obuisard/streamline-utilities" alt="release" /> <img src="https://img.shields.io/github/license/obuisard/streamline-utilities"  alt="license"/>
 
 # 🌊 Streamline Utilities
 Lightweight utilities for a smoother Joomla experience.
