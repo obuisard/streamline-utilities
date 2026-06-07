@@ -19,7 +19,14 @@ A sincere thank‑you to **web‑eau.net**, and Daniel in particular, for their 
 
 ## 📦 Extensions in This Collection
 
-[Coming soon]
+* Callback <img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla 4 & 5 versions" />
+* Categories List <img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla 4 & 5 versions" />
+* Contacts List <img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla 4 & 5 versions" />
+* Dictionary <img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla 4 & 5 versions" />
+* Download Counter <img src="https://img.shields.io/badge/Joomla-4%20%7C%205-blue" alt="Joomla 4 & 5 versions" />
+* Modify Date <img src="https://img.shields.io/badge/Joomla-3%20%7C%204%20%7C%205-blue" alt="Joomla 3, 4 & 5 versions" />
+* Responsive Tables <img src="https://img.shields.io/badge/Joomla-3%20%7C%204%20%7C%205-blue" alt="Joomla 3, 4 & 5 versions" />
+* Upcoming Articles <img src="https://img.shields.io/badge/Joomla-3%20%7C%204%20%7C%205-blue" alt="Joomla 3, 4 & 5 versions" />
 
 ## 🛠️ Installation
 Install these extensions just like any other Joomla extension:
